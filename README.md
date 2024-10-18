@@ -1,2 +1,2 @@
 # Data_analysis
-https://mybinder.org/v2/gh/nganono/Data_analysis/tree/main/HEAD
+https://mybinder.org/v2/gh/nganono/Data_analysis/HEAD
